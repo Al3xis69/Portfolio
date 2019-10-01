@@ -1,11 +1,15 @@
 div.a {
   text-align: center;
+    font-family: verdana
+    
 }
 
 div.b {
   text-align: left;
+    font-family: verdana
 }
 
 div.c {
   text-align: right;
+    font-family: verdana
 }
